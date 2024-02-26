@@ -7,6 +7,5 @@ Script to convert Android .xml string file to other resources
 4. wxPyton
 
 ### FAQ
-* Install Homebrew [here] (https://brew.sh/)
 * Make sure your Python installation has PATH variable
 * **Install wxPython with pip**
